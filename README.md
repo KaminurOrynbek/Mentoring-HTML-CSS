@@ -1,4 +1,4 @@
-Kaminur Orynbek  
+### Kaminur Orynbek  
 Achievements:  
 - 3rd place at the Hackathon by NU ACM Chapter  
 
